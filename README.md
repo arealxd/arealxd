@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [FFINS](https://ffins.kz/)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Frontend Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arealxd?tab=repositories](https://github.com/arealxd?tab=repositories)
-
-- 💬 Ask me about **frontend technologies**
 
 - 📫 How to reach me **https://t.me/arealxd**
 
