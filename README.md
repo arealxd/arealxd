@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently working as a **Frontend Developer**
 
-- 🔭 I’m currently working on [FFINS](https://ffins.kz/)
-
 - 👨‍💻 Some of my projects are available at [https://github.com/arealxd?tab=repositories](https://github.com/arealxd?tab=repositories)
+
+- 🔭 I’m currently working on [FFINS](https://ffins.kz/)
 
 - 📫 How to reach me **https://t.me/arealxd**
 
