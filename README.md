@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arealxd&label=Profile%20views&color=0e75b6&style=flat" alt="arealxd" /> </p>
 
-- 🔭 I’m currently working on [FFINS](https://ffins.kz/)
+- 🌱 I’m currently working as a **Frontend Developer**
 
-- 🌱 I’m currently learning **Frontend Technologies**
+- 🔭 I’m currently working on [FFINS](https://ffins.kz/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arealxd?tab=repositories](https://github.com/arealxd?tab=repositories)
 
