@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [FFINS](https://ffins.kz/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/arealxd?tab=repositories](https://github.com/arealxd?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/arealxd?tab=repositories](https://github.com/arealxd?tab=repositories)
 
 - 📫 How to reach me **https://t.me/arealxd**
 
