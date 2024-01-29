@@ -8,8 +8,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/arealxd?tab=repositories](https://github.com/arealxd?tab=repositories)
 
-- 🔭 I’m currently working on [FFINS](https://ffins.kz/)
-
 - 📫 How to reach me **https://t.me/arealxd**
 
 <h3 align="left">Connect with me:</h3>
